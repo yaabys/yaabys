@@ -1,4 +1,4 @@
-<h2 align="left"># 💫 About Me:<br>💻 I write code that (usually) works.<br>🚀 Building cool stuff with JavaScript, Java, and too much coffee.<br>📚 Still waiting for semicolons to start making sense.<br>🔍 Always learning, always shipping (sometimes even on purpose).</h2>
+<h2 align="left">💫 About Me:<br>💻 I write code that (usually) works.<br>🚀 Building cool stuff with JavaScript, Java, and too much coffee.<br>📚 Still waiting for semicolons to start making sense.<br>🔍 Always learning, always shipping (sometimes even on purpose).</h2>
 
 
 
