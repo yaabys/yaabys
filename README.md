@@ -1,17 +1,11 @@
 <h2 align="left">💫 About Me:<br>💻 I write code that (usually) works.<br>🚀 Building cool stuff with JavaScript, Java, and too much coffee.<br>📚 Still waiting for semicolons to start making sense.<br>🔍 Always learning, always shipping (sometimes even on purpose).</h2>
 
-
-
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yaabys&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yaabys&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media.tenor.com/84X3672KLCsAAAAM/harry-potter-harry-potter-characters.gif"  />
 
 ###
 
@@ -35,6 +29,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="150" src="https://media.tenor.com/84X3672KLCsAAAAM/harry-potter-harry-potter-characters.gif" alt="harry potter gif" />
 </div>
 
 ###
